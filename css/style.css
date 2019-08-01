@@ -2017,7 +2017,7 @@ hr {
 }
 
 .bg-default {
-	background-color: #fff;
+	background-image: url("/images/consultancy.png");
 }
 
 .bg-default:not([style*="background-"]) + .bg-default:not([style*="background-"]) {
